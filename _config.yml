@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://www.google.com/imgres?q=wallpaper&imgurl=https%3A%2F%2Fi.pinimg.com%2F236x%2Fbf%2F1a%2F03%2Fbf1a031f0f65e284e2d500009ab78263.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fhess3533%2Fwallpapers%2F&docid=OnD4dCk6ZpOMrM&tbnid=7wPSVPr0q5NtMM&vet=12ahUKEwjc4ubA29yLAxVhVmwGHeeIEE4QM3oECBcQAA..i&w=236&h=415&hcb=2&ved=2ahUKEwjc4ubA29yLAxVhVmwGHeeIEE4QM3oECBcQAA
+avatar: sonamchokss.github.io/profile.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
